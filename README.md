@@ -1,3 +1,7 @@
+
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Cesdata/HR_Analytics_Retention_Model/blob/main/HR_Analytics_Retention_Model.ipynb)
+
 # HR_Analytics_Retention_Model
 HR Analytics: Employee Attrition Prediction Machine learning model to predict employee turnover. Features full preprocessing pipeline (Pandas/Sklearn) and threshold optimization to balance intervention costs vs. retention ROI. Built in Python/Colab.
 
